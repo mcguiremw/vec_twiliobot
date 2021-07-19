@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Response>
+    <Gather input="speech" finishOnKey="#" timeout="120" hints="hello, this is, how can i help">
+        <Say>lease wait while I connect the unemployed citizen of Virginia</Say>
+        <Dial>203-767-8369</Dial>
+        <Play>http://demo.twilio.com/docs/classic.mp3</Play>
+    </Gather>
+    <Say>We didn't receive any input. Goodbye!</Say>
+</Response>
